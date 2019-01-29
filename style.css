@@ -1,31 +1,40 @@
 body {
   text-align: center;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  /* border-top: solid black 200px;
-  border-right: solid black 600px;
-  border-bottom: solid black 200px;
-  border-left: solid black 600px; */
+  background-color: black;
+  margin-top: 150px;
+  margin-right: 510px;
+  margin-left:510px;
+  border: solid white 1px;
 }
 
 header h1 {
   background-color: rgb(48, 84, 150);
   border: solid black 2px;
+  margin: 0px;
    color: white;
    font-weight: 600;
+   padding: 10px;
 }
 
 .floater {
   background-color: lightblue;
   height: 20px;
+  margin-top: 25px;
     }
 
 .designer {
-  font-weight: 450;
+  font-weight: 430;
   font-size: 30px;
 }
 
 main {
   background-color: white;
+}
+
+.row {
+  margin-left: 10vw;
+  margin-right: 5vw;
 }
 
 .thick {
