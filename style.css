@@ -2,14 +2,14 @@ body {
   text-align: center;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   background-color: black;
-  margin-top: 150px;
-  margin-right: 510px;
-  margin-left:510px;
+  margin-top: 10vw;
+  margin-right: 20vw;
+  margin-left:20vw;
   border: solid white 1px;
 }
 
 header h1 {
-  background-color: rgb(48, 84, 150);
+  background-color:#1d4587;
   border: solid black 2px;
   margin: 0px;
    color: white;
@@ -18,7 +18,7 @@ header h1 {
 }
 
 .floater {
-  background-color: lightblue;
+  background-color: #cde2f4;
   height: 20px;
   margin-top: 25px;
     }
@@ -56,12 +56,12 @@ main {
   box-sizing: border-box;
   float: left;
   width: 30%;
-  padding: 10px;
+  padding-left: 30px;
   margin-top: 50px;
 }
 
 .img-text {
-  margin-left: 35px;
+  margin-left: 5px;
   text-align: left;
 }
 .article-title {
@@ -80,8 +80,8 @@ font-size: 18px;
 }
 
 footer {
-  background-color: rgb(48, 84, 150);
-  border: solid black 2px;
+  background-color:#1d4587;
+  /* border: solid black 1px; */
   height: 100px;
   width: 100%;
 }
