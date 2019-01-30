@@ -81,7 +81,6 @@ font-size: 18px;
 
 footer {
   background-color:#1d4587;
-  /* border: solid black 1px; */
+  border: solid black 2px;
   height: 100px;
-  width: 100%;
 }
